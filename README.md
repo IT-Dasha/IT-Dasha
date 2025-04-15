@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @IT-Dasha
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Привет, я Даша 
 
-<!---
-IT-Dasha/IT-Dasha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🎓 У меня образование программиста и я увлечена технологиями.
+- 🎨 В настоящее время я учусь графическому дизайну, чтобы объединить свои навыки программирования и дизайна.
+- 💻 Я ищу возможности для сотрудничества в проектах, связанных с веб-разработкой и UI/UX-дизайном.
+
+## Мои интересы
+- Программирование
+- Графический дизайн
+- Создание удобных интерфейсов
+
+## Факт обо мне
+⚡ Я люблю исследовать новые технологии и находить креативные решения для проблем!
+
